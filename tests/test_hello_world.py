@@ -1,4 +1,4 @@
-from example_lib_name import print_hello_world
+from autosvg import print_hello_world
 
 import unittest
 

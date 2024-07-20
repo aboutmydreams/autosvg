@@ -16,7 +16,7 @@ A python library development template that is quick to release and easy to maint
 
 ## Quick starter
 
-- Modify all `example_lib_name` to `your_lib_name`
+- Modify all `autosvg` to `your_lib_name`
 - Edit `hello_world.py` (that's your library main code), and remenber to modify the file name 😊
 - Select the library license. [Choosealicense] website will be helpful.
 - Write your own code, documentation and test.

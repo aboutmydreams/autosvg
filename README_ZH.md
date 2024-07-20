@@ -16,7 +16,7 @@
 
 ## 快速开始
 
-- 将所有 `example_lib_name` 修改为 `your_lib_name`
+- 将所有 `autosvg` 修改为 `your_lib_name`
 - 编辑 `hello_world.py`（这是你的库的主要代码），并记得修改文件名 😊
 - 选择库许可证。[Choosealicense] 网站会很有帮助。
 - 编写自己的代码、文档和测试。

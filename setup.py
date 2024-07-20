@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example_lib_name",
+    name="autosvg",
     version="0.0.1",
-    author="your_github_name",
-    author_email="author_email",
-    description="your_lib_description",
+    author="aboutmydreams",
+    author_email="aboutmydreams@163.com",
+    description="Use a cool way to generate a svg file",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="your_github_url",
